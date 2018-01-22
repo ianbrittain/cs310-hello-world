@@ -1,6 +1,7 @@
 /**
  *
- * @author Your Name
+ * @author Ian Brittain
+ *  Version 2.0
  */
 
 public class Class1 {
